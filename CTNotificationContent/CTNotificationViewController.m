@@ -2,7 +2,7 @@
 #import "BaseCTNotificationContentViewController.h"
 #import <UserNotifications/UserNotifications.h>
 #import <UserNotificationsUI/UserNotificationsUI.h>
-#import <CTNotificationContent/CTNotificationContent-Swift.h>
+#import "CTNotificationContent-Swift.h"
 
 typedef NS_ENUM(NSInteger, CTNotificationContentType) {
     CTNotificationContentTypeContentSlider = 0,
